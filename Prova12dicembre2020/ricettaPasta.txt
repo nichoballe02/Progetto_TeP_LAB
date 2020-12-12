@@ -1,5 +1,12 @@
 1- prendi la pentola
 2- riempila di acqua
+3- metti la pentola sul gas
+4- metti il coperchio 
+5- accendi il gas
+6- Cuoci la pasta
+7- Concludi la cottura
+
+
 3- accendi il gas
 4- metti la pentola sul gas
 5- metti il coperchio
