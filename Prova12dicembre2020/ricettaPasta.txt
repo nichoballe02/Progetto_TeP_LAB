@@ -1,9 +1,7 @@
 1- prendi la pentola
 2- riempila di acqua
-
-3- metti la pentola sul gas
-4- metti il coperchio 
-
-5- accendi il gas
-
-
+3- accendi il gas
+4- metti la pentola sul gas
+5- metti il coperchio
+6- prendi la pasta e pesala sulla bilancia
+7- versa la pasta nella pentola
